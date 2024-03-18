@@ -4,7 +4,7 @@ A notebook to explore [Capella's](https://www.capellaspace.com) open data collec
 
 ## Run on Google Colab
 
-Go to [https://colab.reseorch.google.com](colab.research.google.com/), select File -> Upload Notebook -> GitHub and
+Go to [colab.reseorch.google.com](https://colab.research.google.com/), select File -> Upload Notebook -> GitHub and
 copy/paste [https://github.com/dawiedotcom/capella_open_collection](https://github.com/dawiedotcom/capella_open_collection).
 
 ## Licence
